@@ -5,3 +5,4 @@ Tout comme l'odyssée d'Homère, j'ai passé au travers de nombreuse peripécies
 
  ![photo](/exercice_semaine_01/Img/quartier_latin.jpg)
  
+Mes parents m'ont introduit très jeune au monde du cinéma. Qu'il en soit du monde fantastique avec le Seigneur des anneaux ou le monde de la science-fiction avec Star Wars, j'ai adorer le cinéma 
