@@ -1,3 +1,3 @@
 # Le banquet
 
-![photo](/exercice_semaine_01/Img/photo_bg.jpg))
+![photo](logo_banquet_sombre_01.jpg))
