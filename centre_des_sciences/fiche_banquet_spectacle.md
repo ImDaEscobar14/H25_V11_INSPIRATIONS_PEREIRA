@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="/centre_des_sciences/medias/centre_des_sciences_exterieur.jpg" width="400" length="600">
+  <img src="/centre_des_sciences/medias/centre_des_sciences_exterieur.jpg" width="800">
 </p>
 
 Lors de notre sortie au centre des sciences de Montréal, nous avons eu la chance d'intéragir avec plusieurs médias intéractif. Notamment le banquets qui était en exposition.
