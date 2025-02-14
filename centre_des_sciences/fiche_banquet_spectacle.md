@@ -1,6 +1,6 @@
 # Le banquet au centre des sciences
 <p aling="center">
-  <img src="centre_des_sciences/medias/centre_des_sciences_exterieur.jpg width="400">
+  <img src="/centre_des_sciences/medias/centre_des_sciences_exterieur.jpg width="400">
 </p>
 
 
