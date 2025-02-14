@@ -1,4 +1,4 @@
-# Le banquet au centre des sciences
+# Le centre des sciences
 
 
 
@@ -6,16 +6,12 @@
   <img src="/centre_des_sciences/medias/centre_des_sciences_exterieur.jpg" width="400" length="600">
 </p>
 
+Lors de notre sortie au centre des sciences de Montréal, nous avons eu la chance d'intéragir avec plusieurs médias intéractif. Notamment le banquets qui était en exposition.
 
-
-
-
-
-
-
+# Le Banquet
 
 <p align="center">
   <img src="/centre_des_sciences/medias/logo_banquet_sombre_01.jpg" width="400">
 </p>
-Suite à la visite au centres des sciences de Montréal
+
 
