@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="/centre_des_sciences/medias/centre_des_sciences_exterieur.jpg" width="400" lenght="600">
+  <img src="/centre_des_sciences/medias/centre_des_sciences_exterieur.jpg" width="400" length="600">
 </p>
 
 
