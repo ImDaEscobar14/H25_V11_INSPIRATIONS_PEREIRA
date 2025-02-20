@@ -14,4 +14,9 @@ Le banquet nous propose une expérience unique et original ou tous nos sens sont
   <img src="/centre_des_sciences/medias/logo_banquet_sombre_01.jpg" width="400">
 </p>
 
+Mais avant de se rendre à la salle du spectacle, nous somme invité à visiter plusieurs station qui mettent en expositions des oeuvres en rapport de la cuisine. la première partie de l'exposition est visuel mais incite aussi à tester quelques mécanisme qui simule des tâches culinaire. 
+<p align="center">
+  <img src="/" width="400">
+</p>
+
 
