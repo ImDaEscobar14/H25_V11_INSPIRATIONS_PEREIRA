@@ -16,7 +16,7 @@ Le banquet nous propose une expérience unique et original ou tous nos sens sont
 
 Mais avant de se rendre à la salle du spectacle, nous somme invité à visiter plusieurs station qui mettent en expositions des oeuvres en rapport de la cuisine. la première partie de l'exposition est visuel mais incite aussi à tester quelques mécanisme qui simule des tâches culinaire. 
 <p align="center">
-  <img src="/" width="400">
+  <img src="/centre_des_sciences/medias/image_bol_expo.jpg" width="400">
 </p>
 
 
