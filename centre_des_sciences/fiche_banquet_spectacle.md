@@ -6,10 +6,10 @@
   <img src="/centre_des_sciences/medias/centre_des_sciences_exterieur.jpg" width="500">
 </p>
 
-Lors de notre sortie au centre des sciences de Montréal, nous avons eu la chance d'intéragir avec plusieurs médias intéractif. Notamment le banquets donc nous allons en faire la documentation plus précissement le spectacle et la salle d'exposition.
+Lors de notre sortie au centre des sciences de Montréal le 31 Janvier 2025, nous avons eu la chance d'intéragir avec plusieurs médias intéractif. Notamment le banquets donc nous allons en faire la documentation plus précissement le spectacle et la salle d'exposition.
 
 # Le Banquet
-Le banquet nous propose une expérience unique et original ou tous nos sens sont incité pour vivre l'expérience à toute sa gloire
+L'expostion "Le banquet" ouvre ses porte le 16 mai 2024 à l'intérieur centre des sciences de Montréal. C'est une installation intéractive qui parle de la gastronomie. Le banquet nous propose une expérience unique et original ou tous nos sens sont incité pour vivre l'expérience à toute sa gloire. Cette exposition qui est temporaire 
 <p align="center">
   <img src="/centre_des_sciences/medias/logo_banquet_sombre_01.jpg" width="400">
 </p>
