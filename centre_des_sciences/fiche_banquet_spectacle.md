@@ -21,7 +21,7 @@ Mais avant de se rendre à la salle du spectacle, nous somme invité à visiter 
 # Le spectacle
 Le spectacle est ce qui conclu l'exposition du banquet. C'est la que nous voyons l'empleur de l'installation intéractive dans toute sa beauté. Ce dernier nous offre une expérience auditive, visuel et olfactive. 
 <p align="center">
-  <img src="" width="400">
+  <img src="centre_des_sciences/medias/projecteur_vue_ensemble_02.jpg" width="400">
 </p>
 
 
