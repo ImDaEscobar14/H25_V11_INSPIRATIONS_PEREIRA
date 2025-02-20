@@ -25,4 +25,9 @@ Le spectacle est ce qui conclu l'exposition du banquet. C'est la que nous voyons
   <img align="right" img src="/centre_des_sciences/medias/projecteur_vue_ensemble_02.jpg" width="400">
 </p>
 
+<p align="center">
+  <img align="left" img src="/" width="400">
+</p>
+
+
 
