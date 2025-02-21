@@ -25,7 +25,11 @@ Mais avant de se rendre à la salle du spectacle, nous somme inviter à visiter 
 Le spectacle est ce qui conclu l'exposition du banquet. Suite au projet précèdent, on se retrouve devans un écran sur un mur avec un minuteur qui nous donne le temps d'attente avant la prochaine séance, les crédits apporpriés aux artistes et aux conçeveurs de cette exposition. Par la suite on nous invite à entrer dans une salle et s'assoir dans l'une des chaises qui entrour la grande table du banquet. C'est la que nous voyons l'empleur de l'installation intéractive dans toute sa beauté. Ce dernier nous offre une expérience auditive, visuel et olfactive en utilisant plusieur dispositifs pour que l'expérience soit imerssive. 
 
 <p align="center">
-  <img src="/" width="400"
+  <img src="/centre_des_sciences/medias/panneau_de_credit_01.jpg" width="400"
+</p>
+
+<p align="center">
+  <img src="/centre_des_sciences/medias/menu_exposition_01.jpg" width="400"
 </p>
 
 ## Les composantes
