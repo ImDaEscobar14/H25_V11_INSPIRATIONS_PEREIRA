@@ -50,9 +50,9 @@ Concernant la table, nous somme présenter à une expérience unique qui touche 
 </p>
 
 
-# Rétrospective sur l'exposition
+### Rétrospective sur l'exposition
 
-Qu'il en soit de la 
+Qu'il en soit de la première station intéractive où nous testons des outils de cuisines jusqu'à la salle d'exposition du spectacle au banquet, j'étais bien diverti. Certe, le spectacle était pour tout publique et à des moments je sentais que c'était probablement pour les plus jeunes. J'ai bien apprécier voir cette exposition, non pas pour le contenu en général mais plutôt avec l'oeil d'un étudiant d'intégration multimédia. Voir le potentiel des projets que je pourrais réaliser au futur m'a beacoup ouvert les yeux. Mon point le plus marquant lors de l'exposition était le banquet en tant que tel. Plus précisement les installations intéractives et les voirs en actions. Le jeu de lumière et les projecteurs qui diffusaients des images sur la table et sur les toiles. Cependant, le point qui m'a le plus décu était les odeurs qui passaient au travers des tuyaux. Elles étaient désagréables voir même répugnant à des moments. Si c'était de moi j'essayerais de faire en sorte que les odeurs soient plus agréables. J'aurais aussi proposé une activité qui nécéssite que les gens puissent tanté d'essayer à cuisiner quelque chose ou du moins une activité qui ferait en sorte qu'on puisse non seulement voir, sentir et aprrendre sur la gastronomie mais aussi pouvoir essayer de faire quelque chose propre à soit pour que cette exposition soit plus mémorable.   
 
 
 
