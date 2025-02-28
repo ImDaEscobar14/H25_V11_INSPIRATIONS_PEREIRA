@@ -6,5 +6,5 @@ Luminatura est une installation immersive qui nous fait vivre une expérience vi
 
 ---
 
-# L'INSTALLATION
+## L'INSTALLATION
 
