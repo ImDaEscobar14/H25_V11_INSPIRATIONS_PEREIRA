@@ -35,14 +35,20 @@ Voici la plantation de l'emplacement de l'exposition et des installations nécé
 </p>
 
 Voici la plantation de l'exposition de mon point de vue.
-
 <p>
   <img src="/expo_finissant/medias/images/plantation_mon_pov.jpg">
 </p>
 
 ---
 
+## LISTE DES MATÉRIELS
 
+Voici une liste de ce que l'on peut voir du matériel utilisé pour la création de LUMINATURA 
+
+<li> 3 plaques métalliques </li>
+<li> 3 haut parleur </li>
+<li> Lanterne </li>
+<li> Projecteur </li>
 
 
 
