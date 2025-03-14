@@ -34,6 +34,16 @@ Voici la plantation de l'emplacement de l'exposition et des installations nécé
   <img src="/expo_finissant/medias/images/plantation_du_projet_favori_plaque_placement.jpg" width="400">
 </p>
 
+Voici la plantation de l'exposition de mon point de vue.
+
+<p>
+  <img src="">
+</p>
+
+---
+
+
+
 
 
 
