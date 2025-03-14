@@ -27,12 +27,13 @@ Lors de notre première visite , on a eu la chance de voir une version non compl
 
 <h3><bold>LA PLANTATION</bold></h3>
 
-Voici la plantation partager par l'équipe
+Voici la plantation de l'emplacement de l'exposition et des installations nécéssaires.
 
-
-<p align="50%">
+<p align="center">
   <img src="/expo_finissant/medias/images/plantation_du_projet_favori.png" width="400">
+  <img src="/expo_finissant/medias/images/plantation_du_projet_favori_plaque_placement.jpg" width="400">
 </p>
+
 
 
 
