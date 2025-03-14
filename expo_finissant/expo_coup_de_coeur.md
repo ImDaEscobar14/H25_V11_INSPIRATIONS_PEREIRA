@@ -21,5 +21,14 @@ Lors de notre première visite , on a eu la chance de voir une version non compl
   <img src="/expo_finissant/medias/images/vue_complet_projet.jpg" width="400">
 </p>
 
+## LA PRÉPARATION
+
+---
+
+<h3><bold>LA PLANTATION</bold></h3>
+<li>Le grand studio du collège Montmorency</li>
+
+
+
 
 
