@@ -30,8 +30,8 @@ Lors de notre première visite , on a eu la chance de voir une version non compl
 Voici la plantation partager par l'équipe
 
 
-<p align="center">
-  <img src="/" width="400">
+<p align="50%">
+  <img src="/expo_finissant/medias/images/plantation_du_projet_favori.png" width="400">
 </p>
 
 
