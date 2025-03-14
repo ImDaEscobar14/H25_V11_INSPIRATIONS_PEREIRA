@@ -26,8 +26,13 @@ Lors de notre première visite , on a eu la chance de voir une version non compl
 ---
 
 <h3><bold>LA PLANTATION</bold></h3>
-<li>Le grand studio du collège Montmorency</li>
 
+Voici la plantation partager par l'équipe
+
+
+<p align="center">
+  <img src="/" width="400">
+</p>
 
 
 
