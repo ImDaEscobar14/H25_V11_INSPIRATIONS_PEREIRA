@@ -10,5 +10,12 @@ Luminatura est une installation immersive qui nous fait vivre une expérience vi
 
 ---
 
-## L'INSTALLATION
+## L'INSTALLATION EN CRÉATION
 
+---
+
+Lors de notre première visite , on a eu la chance de voir une version non complète de l'exposition. Cette dernière nous captive dès le debut avec sa présentation unique et attrape oeuil. 
+
+<p align="center">
+  <img src="" width="400">
+</p>
