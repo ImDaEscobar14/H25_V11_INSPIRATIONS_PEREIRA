@@ -66,6 +66,12 @@ LANTERNE & AMPOULES | PLAQUE MÉTALLIQUE & HAUT PARLEUR
 :-------------------------:|:-------------------------:
 ![PROJECTEUR](/expo_finissant/medias/images/lanterne_fond_bleu_luminatura.jpg)|![PROJECTEUR DE LUMIÈRE](/expo_finissant/medias/images/plateau_haut_parleur_luminatura.jpg)
 
+PROJECTEUR & LUMIÈRE
+:-------------------------:
+![PROJECTEUR](/expo_finissant/medias/images/projecteur_vue.jpg)
+
+
+
 
 
 
