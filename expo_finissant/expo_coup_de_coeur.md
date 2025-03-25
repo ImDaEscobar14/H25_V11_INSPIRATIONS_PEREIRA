@@ -5,7 +5,7 @@
 Luminatura est une installation immersive qui nous fait vivre une expérience visuel paisible et satisfaisante dans leurs approche. Nous avons eu la chance de documenter une version en préparation de l'exposition le 25 Février 2025 et leurs présentation finals étaient ouverte au publique du 17 au 21 mars 2025. L'équipe, qui est composé d'Audrey Dandurant , Camilia Bouatmani , Ihab Mouhajer , Justine Rousseau  et Prethiah Rajaeatnam, nous propose l'idée de mélangé le visuel, l'audio et l'intéractivité au travers de l'exposition.
 
 <p align="center">
-  <img src="/expo_finissant/medias/images/photo_team_favorite.jpg" width="500">
+  <img src="/expo_finissant/medias/images/photo_team_favorite.jpg" width="700">
 </p>
 
 *Une photo de l'équipe complète.*
@@ -21,7 +21,7 @@ Lors de notre première visite , on a eu la chance de voir une version non compl
 
 
 <p align="center">
-  <img src="/expo_finissant/medias/images/vue_complet_projet.jpg" width="400">
+  <img src="/expo_finissant/medias/images/vue_complet_projet.jpg" width="700">
 </p>
 
 ## LA PRÉPARATION
