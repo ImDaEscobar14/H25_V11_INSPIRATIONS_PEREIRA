@@ -2,11 +2,14 @@
 
 ---
 
-Luminatura est une installation immersive qui nous fait vivre une expérience visuel qui veut nous faire vivre une expérience visuel paisible et satisfaisante dans leurs approche. L'équipe, qui est composé d'Audrey Dandurant , Camilia Bouatmani , Ihab Mouhajer , Justine Rousseau  et Prethiah Rajaeatnam, nous propose l'idée de mélangé le visuel, l'audio et l'intéractivité au travers de l'exposition.
+Luminatura est une installation immersive qui nous fait vivre une expérience visuel paisible et satisfaisante dans leurs approche. Nous avons eu la chance de documenter une version en préparation de l'exposition le 25 Février 2025 et leurs présentation finals étaient ouverte au publique du 17 au 21 mars 2025. L'équipe, qui est composé d'Audrey Dandurant , Camilia Bouatmani , Ihab Mouhajer , Justine Rousseau  et Prethiah Rajaeatnam, nous propose l'idée de mélangé le visuel, l'audio et l'intéractivité au travers de l'exposition.
 
 <p align="center">
-  <img src="/expo_finissant/medias/images/photo_team_favorite.jpg" width="400">
+  <img src="/expo_finissant/medias/images/photo_team_favorite.jpg" width="500">
 </p>
+
+*Une photo de l'équipe complète.*
+
 
 ---
 
@@ -48,8 +51,20 @@ Voici une liste de ce que l'on peut voir du matériel utilisé pour la création
 
 <li> 3 plaques métalliques </li>
 <li> 3 haut parleur </li>
-<li> Lanterne </li>
-<li> Projecteur </li>
+<li> 2 Lanterne </li>
+<li> 2 Projecteurs </li>
+<li> 3 Projecteurs de lumière </li>
+<li> 4 ampoules </li>
+
+--- 
+
+LISTE DES MATÉRIELS | HAUT PARLEUR
+:-------------------------:|:-------------------------:
+![PLANTATIONS]()|![INSTALLATIONS](/expo_finissant/medias/images/plantation_du_projet_favori_plaque_placement.jpg)
+
+
+
+
 
 
 
