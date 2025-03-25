@@ -68,7 +68,7 @@ LANTERNE & AMPOULES | PLAQUE MÉTALLIQUE & HAUT PARLEUR
 
 PROJECTEUR & LUMIÈRE
 :-------------------------:
-![PROJECTEUR](/expo_finissant/medias/images/projecteur_vue.jpg)
+![PROJECTEUR](/expo_finissant/medias/images/projecteur_vue.png)
 
 
 
