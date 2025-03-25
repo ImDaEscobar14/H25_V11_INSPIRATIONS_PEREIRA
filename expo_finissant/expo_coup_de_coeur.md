@@ -60,7 +60,8 @@ Voici une liste de ce que l'on peut voir du matériel utilisé pour la création
 
 LISTE DES MATÉRIELS | HAUT PARLEUR
 :-------------------------:|:-------------------------:
-![PLAQUE MÉTALLIQUE](/expo_finissant/medias/images/plateau_main_luminatura.jpg)|![INSTALLATIONS](/expo_finissant/medias/images/plantation_du_projet_favori_plaque_placement.jpg)
+![PLAQUE MÉTALLIQUE](/expo_finissant/medias/images/plateau_main_luminatura.jpg)|![HAUT PARLEUR](/expo_finissant/medias/images/plateau_haut_parleur_luminatura.jpg)|![LANTERNE](/)
+
 
 
 
