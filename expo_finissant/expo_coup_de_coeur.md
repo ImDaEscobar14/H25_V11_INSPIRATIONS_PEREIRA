@@ -58,9 +58,13 @@ Voici une liste de ce que l'on peut voir du matériel utilisé pour la création
 
 --- 
 
-LISTE DES MATÉRIELS | HAUT PARLEUR
+LISTE DES MATÉRIELS | HAUT PARLEUR | LANTERNE & AMPOULES
+:-------------------------:|:-------------------------:|:-------------------------:
+![PLAQUE MÉTALLIQUE](/expo_finissant/medias/images/plateau_main_luminatura.jpg)|![HAUT PARLEUR](/expo_finissant/medias/images/plateau_haut_parleur_luminatura.jpg)|![LANTERNE](/expo_finissant/medias/images/lanterne_fond_bleu_luminatura.jpg)
+
+PROJECTEUR | PROJECTEUR DE LUMIÈRE 
 :-------------------------:|:-------------------------:
-![PLAQUE MÉTALLIQUE](/expo_finissant/medias/images/plateau_main_luminatura.jpg)|![HAUT PARLEUR](/expo_finissant/medias/images/plateau_haut_parleur_luminatura.jpg)|![LANTERNE](/)
+![PROJECTEUR](/expo_finissant/medias/images/plateau_main_luminatura.jpg)|![PROJECTEUR DE LUMIÈRE](/expo_finissant/medias/images/plateau_haut_parleur_luminatura.jpg)
 
 
 
