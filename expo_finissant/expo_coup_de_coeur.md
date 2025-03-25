@@ -58,11 +58,11 @@ Voici une liste de ce que l'on peut voir du matériel utilisé pour la création
 
 --- 
 
-PLAQUE MÉTALLIQUE & HAUT PARLEUR 
+PLAQUE MÉTALLIQUE & HAUT PARLEUR EN EXPOSITION
 :-------------------------:
 ![PLAQUE MÉTALLIQUE & HAUT PARLEUR](/expo_finissant/medias/images/plaques_metallique_prep.png)
 
-LANTERNE & AMPOULES | PROJECTEUR DE LUMIÈRE 
+LANTERNE & AMPOULES | PLAQUE MÉTALLIQUE & HAUT PARLEUR  
 :-------------------------:|:-------------------------:
 ![PROJECTEUR](/expo_finissant/medias/images/lanterne_fond_bleu_luminatura.jpg)|![PROJECTEUR DE LUMIÈRE](/expo_finissant/medias/images/plateau_haut_parleur_luminatura.jpg)
 
