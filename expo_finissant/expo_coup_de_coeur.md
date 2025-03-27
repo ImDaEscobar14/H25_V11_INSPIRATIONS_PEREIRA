@@ -84,6 +84,12 @@ Dès que j'ai vu l'instatallion j'était éblouie par le contraste des couleurs 
 ### Deuxième visite ( 18 MARS 2025 ) 
 Lors de leurs présentation final quelques changement on été apporté. L'addition du feuille de présenttation rendait l'exposition plus "professionel". J'ai pu remarqué qu'il on ajouté un projecteur qui pointait le sol pour afficher sur une autre surface ce qui était présenté au mur.
 
+## CE QUI M'A PLU : 
+J'ai vraiment aimé le concept de l'exposition, le fait qu'elle prenne "vie" lorsqu'on intéragie avec,nous donnait  l'impression qu'on était "essentiel" pour alimenté l'exposition. J'ai aimé que lorsqu'on intéragissait avec les plaques, il y avait un son qui jouait. L'experience et dans toute sa beauté lorsque les trois plaques sont utilisé nous donnant un effet différent dépendant des plaques utilisées. J'ai beacoup apprécié l'idée de se connecter avec les autres pour arrivé à quelque chose de beau.
+
+## CE QUE J'AMÉLIORERAIS
+
+
 
 
 
