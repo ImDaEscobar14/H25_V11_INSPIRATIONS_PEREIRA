@@ -6,9 +6,13 @@ Luminatura est une installation immersive qui nous fait vivre une expérience vi
 
 <p align="center">
   <img src="/expo_finissant/medias/images/photo_team_favorite.jpg" width="700">
+  <br>
+  <i>Une photo de l'équipe complète.</i>
 </p>
 
-*Une photo de l'équipe complète.*
+##### [Vidéo de la documentation](https://youtu.be/Jz4wxeXT_2w)
+##### [Vidéo d'intention](https://youtu.be/Jz4wxeXT_2w)
+
 
 
 ---
@@ -70,6 +74,15 @@ PROJECTEUR & LUMIÈRE
 :-------------------------:
 ![PROJECTEUR](/expo_finissant/medias/images/projecteur_vue.png)
 
+---
+
+## EXPÉRIENCE VÉCUE
+
+### Première visite ( 25 FÉVRIER 2025 )
+Dès que j'ai vu l'instatallion j'était éblouie par le contraste des couleurs afficher. J'était intrigué par l'idée que l'on pouvait avoir un impact sur l'oeuvre grace à notre intéractivité. Les plaques métalliques rendaient l'expérience unique comparé à leurs paires. C'est ce qui ma capté lors de ma première visite.
+
+### Deuxième visite ( 18 MARS 2025 ) 
+Lors de leurs présentation final quelques changement on été apporté. L'addition du feuille de présenttation rendait l'exposition plus "professionel". J'ai pu remarqué qu'il on ajouté un projecteur qui pointait le sol pour afficher sur une autre surface ce qui était présenté au mur.
 
 
 
