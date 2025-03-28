@@ -17,7 +17,7 @@
 
 ## Information sur l'exposition
 
-![]()
+![Presentation]()
 **
 
 - Lieu de l'exposition : [COLLÈGE MONTMORENCY](https://www.cmontmorency.qc.ca/)
