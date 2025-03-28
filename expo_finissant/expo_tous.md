@@ -47,6 +47,9 @@ C'était une expérience unique et agréable au sein de leurs paires. Certe l'in
 
 ## Etheria
 
+![Etheria]()
+**
+
 ## Description : 
 L'oeuvre nous fait expériencer un jeu intéractif sur une table. Le jeu est projeté avec une projecteur et nous devons jouer avec des accessoires qui sont identifié par une caméra.
 
@@ -55,6 +58,9 @@ L'oeuvre nous fait expériencer un jeu intéractif sur une table. Le jeu est pro
 ---
 
 ## Internature
+
+![Internature]()
+**
 
 ## Description : 
 L'expositon est une installation intéractive qui nous invite de rentrer dans un tempo ou l'on trouve un dispositif que nous pouvons intéragir avec pour nous faire vivre une expérience visuel paisible.
@@ -65,6 +71,9 @@ L'expositon est une installation intéractive qui nous invite de rentrer dans un
 
 ## CON-DU8 
 
+![Con-du8]()
+**
+
 ## Description : 
 L'exposition nous fais essayer un jeu qui invite le joueur à monter sur un vélo pour pouvoir y jouer. Nous devons passé au travers des niveaux en pédalant et en bougeant de droite à gauche sur un vélo stationnaire qui se fait scanner par une kinect.
 
@@ -73,6 +82,9 @@ L'exposition nous fais essayer un jeu qui invite le joueur à monter sur un vél
 ---
 
 ## Prismatica
+
+![Prismatica]()
+**
 
 ## Description : 
 L'oeuvre nous invite à utiliser notre créativié pour une expérience unique. En utilisant un tableau, des crayons de couleurs et des caméras pour scanner les couleurs et mouvement des tracés que l'on fait. Donnant ainsi un résulat unique grâce au differentes réactions du scanner et des couleurs choisi.
@@ -83,6 +95,9 @@ L'oeuvre nous invite à utiliser notre créativié pour une expérience unique. 
 
 ## Fuga
 
+![Fuga]()
+**
+
 ## Description :
 On est placé devant trois stations qui sont en dessous de trois écrans. On est incité à intéragir avec ses derniers, donnant ainsi vie à l'arbre qui est le resultat d'un long programme de code et d'alghorithme. Cette installation intéractive nous permet de donner vie à un arbre numérique qui sera unique à chacun des participants.
 
@@ -91,6 +106,9 @@ On est placé devant trois stations qui sont en dessous de trois écrans. On est
 ---
 
 ## Arcadia
+
+![Arcadia]()
+**
 
 ## Description : 
 Cette exposition nous fait revenir dans le passé avec son approche d'arcade. Nous devons nous aventurer dans le monde créer des étudiants qui on fait le jeu au complet avec le son qui à été réalisé par eux aussi.
