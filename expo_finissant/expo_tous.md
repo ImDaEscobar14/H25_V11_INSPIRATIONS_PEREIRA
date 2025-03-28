@@ -31,13 +31,14 @@
 
 ## Luminatura
 
-![]()
-**
+![Luminatura](/expo_finissant/medias/images/vue_complet_projet.jpg)
+*Photo par Pablo Pereira*
 
 ## Description : 
-L'exposition est une installation intéractive qui a pour but de réunir les gens pour pouvoir créer quelque chose de beau et unique en utilisant du contenu visuel, auditif et une intéractivité.
+L'exposition proposée est une installation interactive conçue pour rassembler les visiteurs dans un espace commun où ils peuvent collaborer et créer quelque chose de beau, d'unique et de significatif. Grâce à l'intégration de contenus visuels et auditifs, l'expérience s'enrichit et permet à chaque individu de s'impliquer activement avec les plaques métalliques.
 
-## Ressenti
+## Ressenti : 
+C'était une expérience unique et agréable au sein de leurs paires. Certe l'installation est intéractive mais le message de cette exposition était tout aussi impactante. Qu'en s'unissant nous pouvons créer quelque chose de beau et unique. J'ai apprécié l'esthétique de l'exposition elle était simple, agréable et paisible.
 
 ---
 
