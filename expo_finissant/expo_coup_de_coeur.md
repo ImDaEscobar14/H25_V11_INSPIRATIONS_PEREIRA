@@ -8,12 +8,18 @@ Luminatura est une installation immersive qui nous fait vivre une expérience vi
   <img src="/expo_finissant/medias/images/photo_team_favorite.jpg" width="700">
   <br>
   <i>Une photo de l'équipe complète.</i>
+  <br>
+  <i>Photo par Pablo Pereira.</i>
 </p>
 
 ##### [Vidéo de la documentation](https://youtu.be/Jz4wxeXT_2w)
 ##### [Vidéo d'intention](https://youtu.be/Jz4wxeXT_2w)
 
+---
 
+# FICHE TECHNIQUE
+<li>Lieu de l'exposition : [COLLÈGE MONTMORENCY]() </li>
+<li></li>
 
 ---
 
@@ -60,6 +66,8 @@ Voici une liste de ce que l'on peut voir du matériel utilisé pour la création
 <li> 3 Projecteurs de lumière </li>
 <li> 4 ampoules </li>
 
+##### [Composante Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/40_maquette/?id=composantes-essentielles-de-la-maquette)
+
 --- 
 
 PLAQUE MÉTALLIQUE & HAUT PARLEUR EN EXPOSITION
@@ -88,6 +96,7 @@ Lors de leurs présentation final quelques changement on été apporté. L'addit
 J'ai vraiment aimé le concept de l'exposition, le fait qu'elle prenne "vie" lorsqu'on intéragie avec,nous donnait  l'impression qu'on était "essentiel" pour alimenté l'exposition. J'ai aimé que lorsqu'on intéragissait avec les plaques, il y avait un son qui jouait. L'experience et dans toute sa beauté lorsque les trois plaques sont utilisé nous donnant un effet différent dépendant des plaques utilisées. J'ai beacoup apprécié l'idée de se connecter avec les autres pour arrivé à quelque chose de beau.
 
 ## CE QUE J'AMÉLIORERAIS
+Ce que j'aurais amélioré n'était pas quelque chose d'accessible pour l'équipe mais j'aurais trouvé intéréssant d'avoir plus d'intéractivité avec la plaque métallique. Qu'on puise voir nos tracé sur la plaque au projecteur. J'ai discuté avec l'équipe et ils mon tous dit que ce n'était pas possible dû aux plaques métaliques.
 
 
 
