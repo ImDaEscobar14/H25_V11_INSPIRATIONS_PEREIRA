@@ -31,6 +31,9 @@
 
 ## Luminatura
 
+![]()
+**
+
 ## Description : 
 L'exposition est une installation intéractive qui a pour but de réunir les gens pour pouvoir créer quelque chose de beau et unique en utilisant du contenu visuel, auditif et une intéractivité.
 
