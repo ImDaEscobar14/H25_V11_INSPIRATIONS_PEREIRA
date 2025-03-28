@@ -18,8 +18,9 @@ Luminatura est une installation immersive qui nous fait vivre une expérience vi
 ---
 
 # FICHE TECHNIQUE
-<li>Lieu de l'exposition : [COLLÈGE MONTMORENCY](https://www.cmontmorency.qc.ca/) </li>
-<li></li>
+- Lieu de l'exposition : [COLLÈGE MONTMORENCY](https://www.cmontmorency.qc.ca/)
+- Type d'exposition : Temporaire, intérieure
+
 
 ---
 
@@ -51,9 +52,13 @@ PLANTATIONS | INSTALLATIONS
 Voici la plantation de l'exposition de mon point de vue.
 <p>
   <img src="/expo_finissant/medias/images/plantation_mon_pov.jpg">
+  <br>
+  <i>Photo par Pablo Pereira</i>
 </p>
 
+
 ---
+
 
 ## LISTE DES MATÉRIELS
 
