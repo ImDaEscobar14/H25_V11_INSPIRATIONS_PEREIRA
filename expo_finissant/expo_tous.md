@@ -47,7 +47,7 @@ C'était une expérience unique et agréable au sein de leurs paires. Certe l'in
 
 ## Etheria
 
-![Etheria]()
+![Etheria](/expo_finissant/medias_resonance_tous/Etheria_expo.png)
 **
 
 ## Description : 
