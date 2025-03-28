@@ -51,7 +51,7 @@ C'était une expérience unique et agréable au sein de leurs paires. Certe l'in
 **
 
 ## Description : 
-L'oeuvre nous fait expériencer un jeu intéractif sur une table. Le jeu est projeté avec une projecteur et nous devons jouer avec des accessoires qui sont identifié par une caméra.
+L'oeuvre nous fait expériencer un jeu intéractif sur une table. Le jeu est projeté avec une projecteur et nous devons jouer avec des accessoires qui sont identifié par une caméra. L'expérience est original et son
 
 ## Ressenti
 
@@ -107,13 +107,14 @@ On est placé devant trois stations qui sont en dessous de trois écrans. On est
 
 ## Arcadia
 
-![Arcadia]()
+![Arcadia](/expo_finissant/medias_resonance_tous/Arcadia_expo.png)
 **
 
 ## Description : 
 Cette exposition nous fait revenir dans le passé avec son approche d'arcade. Nous devons nous aventurer dans le monde créer des étudiants qui on fait le jeu au complet avec le son qui à été réalisé par eux aussi.
 
-## Ressenti
+## Ressenti :
+
 
 ---
 
