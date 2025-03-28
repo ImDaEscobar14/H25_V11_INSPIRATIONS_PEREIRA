@@ -59,7 +59,7 @@ L'oeuvre nous fait expériencer un jeu intéractif sur une table. Le jeu est pro
 
 ## Internature
 
-![Internature]()
+![Internature](/expo_finissant/medias_resonance_tous/Internature_expo.png)
 **
 
 ## Description : 
