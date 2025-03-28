@@ -61,7 +61,7 @@ J'ai vraiment trouvé ca intéréssant le fait que nos personnages soit control�
 ## Internature
 
 ![Internature](/expo_finissant/medias_resonance_tous/Internature_expo.png)
-*Photo par Pablo Pereira *
+*Photo par Pablo Pereira*
 
 ## Description : 
 L'expositon est une installation intéractive qui nous invite de rentrer dans un tempo ou l'on trouve un dispositif que nous pouvons intéragir avec pour nous faire vivre une expérience visuel paisible.
@@ -74,6 +74,7 @@ J'ai trouvé le concept de l'oeuvre intéressant et innovatif mais je pense que 
 ## CON-DU8 
 
 ![Con-du8](/expo_finissant/medias_resonance_tous/con-du8_expo.png)
+
 *Photo par Pablo Pereira*
 
 ## Description : 
@@ -100,6 +101,7 @@ L'idée était vraiment bonne mais l'exécution n'était pas impréssionnante. J
 ## Fuga
 
 ![Fuga](/expo_finissant/medias_resonance_tous/Fuga_expo.png)
+
 *Photo par Pablo Pereira*
 
 ## Description :
@@ -113,6 +115,7 @@ J'ai trouvé ca impréssionnant le parcours pour arriver à leurs projet final c
 ## Arcadia
 
 ![Arcadia](/expo_finissant/medias_resonance_tous/Arcadia_expo.png)
+
 *Photo par Efraïm Canizalez*
 
 ## Description : 
