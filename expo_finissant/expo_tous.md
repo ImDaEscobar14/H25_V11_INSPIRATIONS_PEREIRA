@@ -48,12 +48,13 @@ C'était une expérience unique et agréable au sein de leurs paires. Certe l'in
 ## Etheria
 
 ![Etheria](/expo_finissant/medias_resonance_tous/Etheria_expo.png)
-**
+*Photo par Pablo Pereira*
 
 ## Description : 
-L'oeuvre nous fait expériencer un jeu intéractif sur une table. Le jeu est projeté avec une projecteur et nous devons jouer avec des accessoires qui sont identifié par une caméra. L'expérience est original et son
+L'oeuvre nous fait expériencer un jeu intéractif sur une table. Le jeu est projeté avec une projecteur et nous devons jouer avec des accessoires qui sont identifié par une caméra. 
 
-## Ressenti
+## Ressenti :
+J'ai vraiment trouvé ca intéréssant le fait que nos personnages soit controlé par un accessoire extérieur. J'ai trouvé ca vraiment intrigant et ça me rappelais une visite à Moment Factory et leurs jeux intéractif.
 
 ---
 
@@ -65,38 +66,41 @@ L'oeuvre nous fait expériencer un jeu intéractif sur une table. Le jeu est pro
 ## Description : 
 L'expositon est une installation intéractive qui nous invite de rentrer dans un tempo ou l'on trouve un dispositif que nous pouvons intéragir avec pour nous faire vivre une expérience visuel paisible.
 
-## Ressenti
+## Ressenti : 
+J'ai trouvé le concept de l'oeuvre intéressant et innovatif mais je pense que je n'a
 
 ---
 
 ## CON-DU8 
 
 ![Con-du8](/expo_finissant/medias_resonance_tous/con-du8_expo.png)
-**
+*Photo par Pablo Pereira*
 
 ## Description : 
 L'exposition nous fais essayer un jeu qui invite le joueur à monter sur un vélo pour pouvoir y jouer. Nous devons passé au travers des niveaux en pédalant et en bougeant de droite à gauche sur un vélo stationnaire qui se fait scanner par une kinect.
 
-## Ressenti
+## Ressenti :
+
 
 ---
 
 ## Prismatica
 
 ![Prismatica](/expo_finissant/medias_resonance_tous/Prismatica_expo.png)
-**
+*Photo par Pablo Pereira*
 
 ## Description : 
 L'oeuvre nous invite à utiliser notre créativié pour une expérience unique. En utilisant un tableau, des crayons de couleurs et des caméras pour scanner les couleurs et mouvement des tracés que l'on fait. Donnant ainsi un résulat unique grâce au differentes réactions du scanner et des couleurs choisi.
 
-## Ressenti
+## Ressenti :
+
 
 ---
 
 ## Fuga
 
 ![Fuga](/expo_finissant/medias_resonance_tous/Fuga_expo.png)
-**
+*Photo par Pablo Pereira*
 
 ## Description :
 On est placé devant trois stations qui sont en dessous de trois écrans. On est incité à intéragir avec ses derniers, donnant ainsi vie à l'arbre qui est le resultat d'un long programme de code et d'alghorithme. Cette installation intéractive nous permet de donner vie à un arbre numérique qui sera unique à chacun des participants.
@@ -108,7 +112,7 @@ On est placé devant trois stations qui sont en dessous de trois écrans. On est
 ## Arcadia
 
 ![Arcadia](/expo_finissant/medias_resonance_tous/Arcadia_expo.png)
-**
+*Photo par Efraïm Canizalez*
 
 ## Description : 
 Cette exposition nous fait revenir dans le passé avec son approche d'arcade. Nous devons nous aventurer dans le monde créer des étudiants qui on fait le jeu au complet avec le son qui à été réalisé par eux aussi.
