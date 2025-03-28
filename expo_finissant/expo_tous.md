@@ -17,8 +17,8 @@
 
 ## Information sur l'exposition
 
-![Presentation]()
-**
+![Presentation](/expo_finissant/medias_resonance_tous/photo_presentation.png)
+*Photo par Olivier Leclerc Leconte*
 
 - Lieu de l'exposition : [COLLÈGE MONTMORENCY](https://www.cmontmorency.qc.ca/)
 - Mise en exposition du 17 Mars jusqu'au 21 Mars
@@ -61,7 +61,7 @@ J'ai vraiment trouvé ca intéréssant le fait que nos personnages soit control�
 ## Internature
 
 ![Internature](/expo_finissant/medias_resonance_tous/Internature_expo.png)
-**
+*Photo par Pablo Pereira *
 
 ## Description : 
 L'expositon est une installation intéractive qui nous invite de rentrer dans un tempo ou l'on trouve un dispositif que nous pouvons intéragir avec pour nous faire vivre une expérience visuel paisible.
