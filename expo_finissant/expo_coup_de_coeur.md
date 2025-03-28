@@ -13,7 +13,7 @@ Luminatura est une installation immersive qui nous fait vivre une expérience vi
 </p>
 
 ##### [Vidéo de la documentation](https://youtu.be/Jz4wxeXT_2w)
-##### [Vidéo d'intention](https://youtu.be/Jz4wxeXT_2w)
+##### [Vidéo d'intention](https://youtu.be/i6xJno_NFSc)
 
 ---
 
