@@ -71,7 +71,7 @@ L'expositon est une installation intéractive qui nous invite de rentrer dans un
 
 ## CON-DU8 
 
-![Con-du8]()
+![Con-du8](/expo_finissant/medias_resonance_tous/con-du8_expo.png)
 **
 
 ## Description : 
@@ -83,7 +83,7 @@ L'exposition nous fais essayer un jeu qui invite le joueur à monter sur un vél
 
 ## Prismatica
 
-![Prismatica]()
+![Prismatica](/expo_finissant/medias_resonance_tous/Prismatica_expo.png)
 **
 
 ## Description : 
@@ -95,7 +95,7 @@ L'oeuvre nous invite à utiliser notre créativié pour une expérience unique. 
 
 ## Fuga
 
-![Fuga]()
+![Fuga](/expo_finissant/medias_resonance_tous/Fuga_expo.png)
 **
 
 ## Description :
