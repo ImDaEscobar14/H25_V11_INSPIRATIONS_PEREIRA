@@ -79,8 +79,8 @@ J'ai trouvé le concept de l'oeuvre intéressant et innovatif mais je pense que 
 ## Description : 
 L'exposition nous fais essayer un jeu qui invite le joueur à monter sur un vélo pour pouvoir y jouer. Nous devons passé au travers des niveaux en pédalant et en bougeant de droite à gauche sur un vélo stationnaire qui se fait scanner par une kinect.
 
-## Ressenti :
-
+## Ressenti : 
+J'ai vraiment trouvé le concept intéréssant mais l'application aurait pu être mieux fait. Je ne sais pas si c'était pour un manque de temps ou une idée trop ambisieuse pour les ressources accessibles mais je trouvais que le vélo était "compliqué" à controler et avancé dans le jeu. 
 
 ---
 
@@ -90,10 +90,10 @@ L'exposition nous fais essayer un jeu qui invite le joueur à monter sur un vél
 *Photo par Pablo Pereira*
 
 ## Description : 
-L'oeuvre nous invite à utiliser notre créativié pour une expérience unique. En utilisant un tableau, des crayons de couleurs et des caméras pour scanner les couleurs et mouvement des tracés que l'on fait. Donnant ainsi un résulat unique grâce au differentes réactions du scanner et des couleurs choisi.
+L'oeuvre nous invite à utiliser notre créativié pour une expérience unique. En utilisant un tableau, des crayons de couleurs et des caméras pour scanner les couleurs et mouvement des tracés que l'on fait. Donnant ainsi un résulat unique grâce au differentes réactions du scanner et des couleurs choisi. La couleur était accompagner d'un son.
 
 ## Ressenti :
-
+L'idée était vraiment bonne mais l'exécution n'était pas impréssionnante. Je pense qu'il y avait du potentiel mais qu'il manquait quelque chose pour que ce soit assez distinguant des autres oeuvres. Peut-être aussi il fallait plus de temps à passer sur le résultat sur l'écran car lorsqu'on dessinait, on n'avait pas le dessin qui s'affichait. Je pense sincèrement que le projet aurait bénéficier avec un peu plus de temps pour le monté pour qu'il soit optimisé a son plein potentiel. Cependant l'expérience reste tout de même intéressante et pousse à chercher tous les differents résultat avec les crayons. 
 
 ---
 
@@ -105,7 +105,8 @@ L'oeuvre nous invite à utiliser notre créativié pour une expérience unique. 
 ## Description :
 On est placé devant trois stations qui sont en dessous de trois écrans. On est incité à intéragir avec ses derniers, donnant ainsi vie à l'arbre qui est le resultat d'un long programme de code et d'alghorithme. Cette installation intéractive nous permet de donner vie à un arbre numérique qui sera unique à chacun des participants.
 
-## Ressenti
+## Ressenti : 
+J'ai trouvé ca impréssionnant le parcours pour arriver à leurs projet final cependant je trouve qu'il n'y avait pas beaucoup de différence entre les 3 stations et les résultats des arbres. Certe le code était impréssionnant à voir mais je trouve que le resultat final aurait peut-être bénéficié de réduire le nombre de station et de mettre plus d'effort sur une station et d'amélioré le
 
 ---
 
