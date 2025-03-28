@@ -2,7 +2,7 @@
 
 ---
 
-Luminatura est une installation immersive qui nous fait vivre une expérience visuel paisible et satisfaisante dans leurs approche. Nous avons eu la chance de documenter une version en préparation de l'exposition le 25 Février 2025 et leurs présentation finals étaient ouverte au publique du 17 au 21 mars 2025. L'équipe, qui est composé d'Audrey Dandurant , Camilia Bouatmani , Ihab Mouhajer , Justine Rousseau  et Prethiah Rajaeatnam, nous propose l'idée de mélangé le visuel, l'audio et l'intéractivité au travers de l'exposition.
+Luminatura est une installation immersive qui nous offre une expérience visuelle paisible et satisfaisante dans son approche. Nous avons eu la chance de documenter une version en préparation de l'exposition le 25 février 2025, et leur présentation finale était ouverte au public du 17 au 21 mars 2025. L'équipe, composée d'Audrey Dandurant, Camilia Bouatmani, Ihab Mouhajer, Justine Rousseau et Prethiah Rajaeatnam, nous propose l'idée de mélanger le visuel, l'audio et l'interactivité à travers l'exposition.
 
 <p align="center">
   <img src="/expo_finissant/medias/images/photo_team_favorite.jpg" width="700">
@@ -93,17 +93,16 @@ PROJECTEUR & LUMIÈRE
 ## EXPÉRIENCE VÉCUE
 
 ### Première visite ( 25 FÉVRIER 2025 )
-Dès que j'ai vu l'instatallion j'était éblouie par le contraste des couleurs afficher. J'était intrigué par l'idée que l'on pouvait avoir un impact sur l'oeuvre grace à notre intéractivité. Les plaques métalliques rendaient l'expérience unique comparé à leurs paires. C'est ce qui ma capté lors de ma première visite.
+Dès que j'ai vu l'installation, j'étais ébloui par le contraste des couleurs affichées. J'étais intrigué par l'idée que l'on pouvait avoir un impact sur l'œuvre grâce à notre interactivité. Les plaques métalliques rendaient l'expérience unique comparée à leurs pairs. C'est ce qui m'a captivé lors de ma première visite.
 
 ### Deuxième visite ( 18 MARS 2025 ) 
-Lors de leurs présentation final quelques changement on été apporté. L'addition du feuille de présenttation rendait l'exposition plus "professionel". J'ai pu remarqué qu'il on ajouté un projecteur qui pointait le sol pour afficher sur une autre surface ce qui était présenté au mur.
+Lors de leur présentation finale, quelques changements ont été apportés. L'ajout de la feuille de présentation rendait l'exposition plus "professionnelle". J'ai remarqué qu'ils avaient ajouté un projecteur qui pointait vers le sol pour afficher sur une autre surface ce qui était présenté au mur.
 
 ## CE QUI M'A PLU : 
-J'ai vraiment aimé le concept de l'exposition, le fait qu'elle prenne "vie" lorsqu'on intéragie avec,nous donnait  l'impression qu'on était "essentiel" pour alimenté l'exposition. J'ai aimé que lorsqu'on intéragissait avec les plaques, il y avait un son qui jouait. L'experience et dans toute sa beauté lorsque les trois plaques sont utilisé nous donnant un effet différent dépendant des plaques utilisées. J'ai beacoup apprécié l'idée de se connecter avec les autres pour arrivé à quelque chose de beau.
+J'ai vraiment aimé le concept de l'exposition, le fait qu'elle prenne "vie" lorsqu'on interagit avec elle, ce qui nous donnait l'impression d'être "essentiels" pour alimenter l'exposition. J'ai apprécié que, lorsqu'on interagissait avec les plaques, un son se déclenchait. L'expérience atteint toute sa beauté lorsque les trois plaques sont utilisées, produisant un effet différent en fonction des plaques choisies. J'ai beaucoup apprécié l'idée de se connecter avec les autres pour créer quelque chose de beau.
 
 ## CE QUE J'AMÉLIORERAIS
-Ce que j'aurais amélioré n'était pas quelque chose d'accessible pour l'équipe mais j'aurais trouvé intéréssant d'avoir plus d'intéractivité avec la plaque métallique. Qu'on puise voir nos tracé sur la plaque au projecteur. J'ai discuté avec l'équipe et ils mon tous dit que ce n'était pas possible dû aux plaques métaliques.
-
+Ce que j'aurais amélioré n'était pas forcément accessible pour l'équipe, mais j'aurais trouvé intéressant d'avoir plus d'interactivité avec la plaque métallique, par exemple en pouvant voir nos tracés projetés sur la plaque. J'ai discuté avec l'équipe, et ils m'ont tous dit que cela n'était pas possible en raison des plaques métalliques.
 
 
 
