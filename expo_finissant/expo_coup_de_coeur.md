@@ -9,7 +9,7 @@ Luminatura est une installation immersive qui nous fait vivre une expérience vi
   <br>
   <i>Une photo de l'équipe complète.</i>
   <br>
-  <i>Photo par Pablo Pereira.</i>
+  <i> Photo par Pablo Pereira. </i>
 </p>
 
 ##### [Vidéo de la documentation](https://youtu.be/Jz4wxeXT_2w)
@@ -33,6 +33,8 @@ Lors de notre première visite , on a eu la chance de voir une version non compl
 
 <p align="center">
   <img src="/expo_finissant/medias/images/vue_complet_projet.jpg" width="700">
+  <br>
+  <i>Photo par Pablo Pereira</i>
 </p>
 
 ## LA PRÉPARATION
@@ -50,10 +52,9 @@ PLANTATIONS | INSTALLATIONS
 
 
 Voici la plantation de l'exposition de mon point de vue.
+
 <p>
   <img src="/expo_finissant/medias/images/plantation_mon_pov.jpg">
-  <br>
-  <i>Photo par Pablo Pereira</i>
 </p>
 
 
