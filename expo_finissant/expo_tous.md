@@ -1,5 +1,8 @@
 # EXPOSITION FINISSANT TIM 2025 - RESONANCE
 
+![image_expo](/expo_finissant/medias_resonance_tous/resonance_photo_expo.png)
+*Photo par Pablo Pereira*
+
 ## EXPOSITIONS DES FINISSANT
 
 1. [LUMINATURA](https://miaou-mafia.github.io/projet-luminatura/#/)
