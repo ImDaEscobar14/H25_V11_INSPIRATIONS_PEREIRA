@@ -5,7 +5,7 @@ Lors de la conférence de Jade Séguéla le 25 mars 2025, nous avons eu la chanc
 PRÉSENCE INSTABLE | SHADOW TUNER
 :-------------------------:|:-------------------------:
 
-![PRÉSENCE INSTABLE](/expo_finissant/medias/images/plantation_du_projet_favori.png)|![SHADOW TUNER](/expo_finissant/medias/images/plantation_du_projet_favori_plaque_placement.jpg)
+![PRÉSENCE INSTABLE](/studio_LOZANO-HEMMER/media/exposition_sphere_rafael_lozano.png)|![SHADOW TUNER](/expo_finissant/medias/images/plantation_du_projet_favori_plaque_placement.jpg)
 
 
 ---
