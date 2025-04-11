@@ -35,5 +35,4 @@ Elle a conclu la conférence en parlant d’une œuvre créée en 2023. Ce grand
 </p>
 
 ## APPRÉCIATION PERSONNELLE 
-La
-
+Pour conclure, j’ai bien apprécié la conférence, elle était très intéressante. Jade nous a bien expliqué les démarches importantes lors de la réalisation d’un projet et nous a clairement montré l’importance d’être bien organisé. Cependant, je n’ai pas réellement apprécié l’idée de la première œuvre, mais c’est probablement parce que je ne suis pas particulièrement passionné par les arts de ces époques. J’ai tout de même aimé découvrir cette facette du multimédia, et je pense que Rafael crée des œuvres vraiment impressionnantes. Je trouve qu’il est important non seulement de parler des artistes d’ici, mais aussi de mettre en valeur les possibilités offertes par le multimédia.
