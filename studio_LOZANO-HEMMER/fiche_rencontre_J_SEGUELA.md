@@ -10,7 +10,6 @@ Avant d'embarquer sur les projets, elle nous parler de Rafael Lozano-Hemmer. Ce 
 :-------------------------:|:-------------------------:
 ![PRÉSENCE INSTABLE](/studio_LOZANO-HEMMER/media/exposition_sphere_rafael_lozano.png) Oeuvre par Rafael Lozano-Hemmer, mise en exposition au Musée d'Art Contemporain de Montréal en 2018. <br> <i>Photo par : Guy L'Hereux</i>|![SHADOW TUNER](/studio_LOZANO-HEMMER/media/shadow_tuner_rafael_lozano.png)Oeuvre par Rafael Lozano-Hemmer, mise en exposition à Abu Dhabi aux Émirats arabes unis en 2023. <br> <i>Photo par : Lance Gerber</i>
 <br>
-<i>Photo prise du site web de l'atelier Lozano-Hemmer</i>
 
 ---
 
