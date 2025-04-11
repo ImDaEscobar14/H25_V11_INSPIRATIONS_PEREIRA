@@ -19,3 +19,21 @@ Jade Séguéla nous a fait une brève présentation des débuts du studio de Raf
 ### <i>SPHERE PACKING: BACH</i>
 Elle nous a expliqué que cette œuvre met en valeur les compositions de <i>Johann Sebastian Bach</i> à travers une sphère construite en bois, qui diffuse la musique grâce à plusieurs haut-parleurs installés tout autour de la structure. Jade nous a parlé de la complexité de l’installation et de l’importance d’avoir une bonne organisation du matériel. Elle nous a précisé que cette œuvre a pour but de souligner l’ampleur du travail réalisé par le musicien.
 
+<p align="center">
+  <img src="/studio_LOZANO-HEMMER/media/exposition_sphere_rafael_lozano.png" width="600">
+  <br>
+  <i>Photo par : Guy L'Hereux</i>
+</p>
+
+### <i>SHADOW TUNER</i> 
+Elle a conclu la conférence en parlant d’une œuvre créée en 2023. Ce grand projet, comme l’a mentionné Jade, est parti de presque rien et a pris une ampleur gigantesque, tant dans son concept que dans sa taille. L’installation a été présentée à Abu Dhabi et consiste à projeter une carte du monde sur une grande sphère gonflable. Les visiteurs sont invités à se placer devant la sphère, face au pays de leur choix, afin d’écouter la radio de ce pays en temps réel. Les spectateurs sont détectés grâce à des capteurs disposés tout autour de l’œuvre. Jade nous a expliqué que ce fut un projet particulièrement long et complexe, notamment parce qu’ils étaient installés sur une petite île, ce qui rendait le transport du matériel très difficile et lent.
+
+<p align="center">
+  <img src="/studio_LOZANO-HEMMER/media/shadow_tuner_rafael_lozano.png" width="600">
+  <br>
+  <i>Photo par : Lance Gerber</i>
+</p>
+
+## APPRÉCIATION PERSONNELLE 
+La
+
