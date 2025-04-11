@@ -4,11 +4,11 @@
 
 Le 25 mars 2025, nous avons eu la chance de recevoir Jade Séguéla pour une conférence sur deux oeuvres fait par Rafael Lozano-Hemmer. Étant la registraire pour l'atelier Lozano-Hemmer, elle est l'une des mieux placé pour parler de l'installation de ces projets. 
 
-PRÉSENCE INSTABLE | SHADOW TUNER
+<i>SPHERE PACKING: BACH</i> | <i>SHADOW TUNER</i>
 :-------------------------:|:-------------------------:
-![PRÉSENCE INSTABLE](/studio_LOZANO-HEMMER/media/exposition_sphere_rafael_lozano.png)|![SHADOW TUNER](/studio_LOZANO-HEMMER/media/shadow_tuner_rafael_lozano.png)
+![PRÉSENCE INSTABLE](/studio_LOZANO-HEMMER/media/exposition_sphere_rafael_lozano.png) Oeuvre par Rafael Lozano-Hemmer, mise en exposition au Musée d'Art Contemporain de Montréal en 2018. <br> <i>Photo par : Guy L'Hereux</i>|![SHADOW TUNER](/studio_LOZANO-HEMMER/media/shadow_tuner_rafael_lozano.png)Oeuvre par Rafael Lozano-Hemmer, mise en exposition à Abu Dhabi aux Émirats arabes unis en 2023. <br> <i>Photo par : Lance Gerber</i>
 <br>
-<i> Photo prise du site web de l'atelier Lozano-Hemmer </i>
+<i>Photo prise du site web de l'atelier Lozano-Hemmer</i>
 
 ---
 
