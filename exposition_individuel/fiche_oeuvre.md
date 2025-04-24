@@ -1,6 +1,7 @@
 ### COSMÔDOME
 
-
+![image_expo](/exposition_individuel/media/cosmodome_ext_01.png)
+*Photo par Pablo Pereira*
 
 ## MISSION VIRTUELLES
 L’exposition Mission impossible est une installation interactive présentée au Cosmodôme de Laval depuis la mi-mars 2024.
