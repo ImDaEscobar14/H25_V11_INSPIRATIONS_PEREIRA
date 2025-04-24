@@ -1,4 +1,4 @@
-### COSMÔDOME
+# COSMÔDOME
 
 ![image_expo](/exposition_individuel/media/cosmodome_ext_01.png)
 *Photo par Pablo Pereira*
@@ -20,9 +20,18 @@ LA PLANÈTE ROUGE | AUX FRONTIÈRES DU COSMOS | RÊVE IMPOSSIBLE
 
 <i> Photo pris du site web du Cosmôdome de Laval </i>
 
-
-
-
 ---
+
+## RÊVE IMPOSSIBLE
+
+Lorsqu'on arrive vers l'exposition, on nous donne des bracelets qui vont nous être utile tout au long de la mission. Par la suite on est invité à se placer dans une file d'attente dépendant la mission qu'on à choisi.
+
+<p align="center">
+  <img src="/exposition_individuel/media/quai_expo_01.jpg" width="500">
+  <br>
+  <i>Photo prise par Pablo Pereira</i>
+</p>
+
+
 
 
