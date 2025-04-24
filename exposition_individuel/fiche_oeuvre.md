@@ -12,11 +12,10 @@ Parmi les trois missions proposées, on retrouvait également : La planète roug
 
 Cette dernière retrace la course vers la Lune d’une manière très créative et de façons intéractive. L’histoire est racontée de façon très original, à travers une série de stations interactives dispersées dans plusieurs salles. Chaque étape invite les visiteurs à participer activement, rendant l’expérience à la fois éducative et dynamique.
 
-![image_expo](/exposition_individuel/media/poster_frontiere_cosmos.png
+LA PLANÈTE ROUGE | AUX FRONTIÈRES DU COSMOS | RÊVE IMPOSSIBLE
+:-------------------------:|:-------------------------:|:-------------------------:
+![image_expo](/exposition_individuel/media/poster_planete_rouge.png)|![image_expo](/exposition_individuel/media/poster_frontiere_cosmos.png)|![image_expo](/exposition_individuel/media/poster_reve_impo.png)
 
-![image_expo](/exposition_individuel/media/poster_planete_rouge.png
-
-![image_expo](/exposition_individuel/media/poster_reve_impo.png
 
 
 ---
