@@ -18,7 +18,7 @@ LA PLANÈTE ROUGE | AUX FRONTIÈRES DU COSMOS | RÊVE IMPOSSIBLE
 
 
 
-<i> Photo pris du site web du Cosmôdome de Laval </i>
+<i> Photo des affiches des missions prise du site web du Cosmôdome de Laval </i>
 
 ---
 
@@ -29,7 +29,7 @@ Lorsqu'on arrive vers l'exposition, on nous donne des bracelets qui vont nous ê
 <p align="center">
   <img src="/exposition_individuel/media/quai_expo_01.jpg" width="500">
   <br>
-  <i>Photo prise par Pablo Pereira</i>
+  <i>Photo du quai prise par Pablo Pereira</i>
 </p>
 
 Nous sommes ensuite guidés à travers l’exposition, qui débute par une station expliquant le but de la mission. Une vidéo y est diffusée, documentant les premières tentatives de vaisseaux pour aller dans l’espace, en montrant à la fois les réussites et les échecs. L’hôte de la vidéo nous invite ensuite à le rejoindre dans une nouvelle salle.
@@ -41,7 +41,7 @@ Nous sommes ensuite guidés à travers l’exposition, qui débute par une stati
   <br>
   <img src="/exposition_individuel/media/debut_expo_02.jpg" width="500">
   <br>
-  <i>Photo prise par Pablo Pereira</i>
+  <i>Photo de la première salle de l'exposition prise par Pablo Pereira</i>
 </p>
 
 ---
@@ -53,6 +53,9 @@ COULOIR | BOUTON INTÉRACTIF | BOUTON INTÉRACTIF EN ACTION
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image_expo](/exposition_individuel/media/couloir_expo_01.png)|![image_expo](/exposition_individuel/media/bouton_interaction_01.jpg)|![image_expo](/exposition_individuel/media/bouton_interaction_en_action_01.jpg)
 
+
+ <i>Photo des couloirs et du bouton intéractif prise par Pablo Pereira</i>
+
 Pour le reste de l'exposition, nous entrions dans différentes salles pour en apprendre davantage sur la course vers la Lune. C’est à ce moment-là que nous pouvions interagir avec certaines installations interactives. Les interactions les plus fréquentes se faisaient à l’aide d’écrans tactiles. On nous proposait de nombreuses tâches à accomplir, représentant les étapes nécessaires à la construction d’une station spatiale, ainsi que les manœuvres utilisées lors de l’atterrissage.
 
 ---
@@ -63,7 +66,7 @@ Pour le reste de l'exposition, nous entrions dans différentes salles pour en ap
 
 
 
-<i> Photo pris par Pablo Pereira </i>
+<i> Photo de quelques écrans par Pablo Pereira </i>
 
 Il y avait plusieurs haut-parleurs au travers des murs ou aux installations. Des projecteurs aussi étaient nécéssaire pour la diffusion des vidéos.
 
