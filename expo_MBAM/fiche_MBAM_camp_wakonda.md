@@ -47,6 +47,7 @@ Voici une représentation de la salle selon mon point de vue.
 Nous pouvons aussi retrouvé le panneaux des source dans la salle.
 <p align="center">
   <img src="/expo_MBAM/medias/cartel.jpg" width="500">
+  <br>
   <i>Photo des sources prise par Jérémy Thériault</i>
   <br>
 </p>
