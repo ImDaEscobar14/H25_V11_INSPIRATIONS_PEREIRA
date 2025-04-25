@@ -32,7 +32,7 @@ Lorsqu'on arrive vers l'exposition, on nous donne des bracelets qui vont nous ê
   <i>Photo prise par Pablo Pereira</i>
 </p>
 
-On est par la suite guidée au travers de l'exposition et cette dernière commence avec une station qui nous explique le but de cette mission. Une vidéo qui documente les première tentative de vaiseaux pour aller vers l'espace en nous montrant autant les bonnes tentatives et les mauvaises. L'hôte de la vidéo nous invite à le rejoindre à la prochaine salle.
+Nous sommes ensuite guidés à travers l’exposition, qui débute par une station expliquant le but de la mission. Une vidéo y est diffusée, documentant les premières tentatives de vaisseaux pour aller dans l’espace, en montrant à la fois les réussites et les échecs. L’hôte de la vidéo nous invite ensuite à le rejoindre dans une nouvelle salle.
 
 ---
 
@@ -46,18 +46,18 @@ On est par la suite guidée au travers de l'exposition et cette dernière commen
 
 ---
 
-L'exposition et son installation est vraiment influencé par la vision futuristique des navettes. Les couloirs sont esthétiquements moderne ( dans le cadre d'une navette )
-Pour continuer l'exposition on doit s'aventurer dans les couloirs et trouver la porte qui s'ouvre pour progresser. C'est la que nous pouvons intéragir pour la première fois avec nos bracelet. Il y a un petit "bouton" qui est vert et qui nécéssite une intéractivité avec nos bracelets . On doit rapproché nos bracelet sur se bouton et ils nous identifiera par la suite.
+L’exposition et son installation sont fortement influencées par la vision futuriste des navettes spatiales. Les couloirs présentent une esthétique moderne, rappelant l’intérieur d’une navette.
+Pour poursuivre l’exposition, il faut s’aventurer dans ces couloirs et trouver la porte qui s’ouvre pour progresser. C’est à ce moment-là que nous pouvons interagir pour la première fois avec notre bracelet. Un petit "bouton" vert nécessite une interaction : il faut approcher notre bracelet pour que le système nous identifie.
 
 COULOIR | BOUTON INTÉRACTIF | BOUTON INTÉRACTIF EN ACTION
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image_expo](/exposition_individuel/media/couloir_expo_01.png)|![image_expo](/exposition_individuel/media/bouton_interaction_01.jpg)|![image_expo](/exposition_individuel/media/bouton_interaction_en_action_01.jpg)
 
-Pour le reste de l'exposition on rentrait dans des salles différentes pour en apprendre davantage sur la course vers la lune, c'est alors la que nous pouvons intéragir au travers de quelques installation intéractives. Les intéractions qui étaient très souvent utilisé, étaient des écrans tactiles. On nous donnais beaucoup de tâche a faire qui réprésentaits des étapes nécéssaire pour la construction d'une station spacial et aussi pour nous montrer les manoeuvres utilisées lors de l'attérissage.
+Pour le reste de l'exposition, nous entrions dans différentes salles pour en apprendre davantage sur la course vers la Lune. C’est à ce moment-là que nous pouvions interagir avec certaines installations interactives. Les interactions les plus fréquentes se faisaient à l’aide d’écrans tactiles. On nous proposait de nombreuses tâches à accomplir, représentant les étapes nécessaires à la construction d’une station spatiale, ainsi que les manœuvres utilisées lors de l’atterrissage.
 
 ---
 
-ÉCRAN TACTILE | CONSTRUCTION D'UNE STATION DANS L'ESPACE | MANOEUVRES ATTERRISSAGE 
+ÉCRAN TACTILE | CONSTRUCTION D'UNE STATION DANS L'ESPACE | MANOEUVRES D'ATTERRISSAGE 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image_expo](/exposition_individuel/media/ecran_tactile_01.png)|![image_expo](/exposition_individuel/media/gabs_station_spatiale_01.png)|![image_expo](/exposition_individuel/media/manoeuvre_atterissage_01.jpg)
 
@@ -71,9 +71,9 @@ HAUT-PARLEURS | PROJECTEUR |
 :-------------------------:|:-------------------------:
 ![image_expo](/exposition_individuel/media/haut_parleurs_01.png)|![image_expo](/exposition_individuel/media/projecteur_02.png)
 
-On conclu l'exposition de la mission avec un résumé de la course vers la lune et une appréciation pour toutes les personnes qui n'ont pas peu voir la réussite de la l'atterissage. L'hôte nous fait une overture sur le sujet que l'univers est encore très vaste et qu'encore à se jour nous somme entrain d'améliorer nos technologies pour s'aventurer à l'espace. 
+On conclut l'exposition de la mission avec un résumé de la course vers la Lune, ainsi qu’un hommage à toutes les personnes qui n'ont pas pu voir la réussite de l’atterrissage. L'hôte nous ouvre ensuite sur le fait que l’univers reste encore très vaste, et qu’aujourd’hui encore, nous continuons d’améliorer nos technologies pour explorer l’espace.
 
-## APPRÉCIATION PERSONNEL
+## APPRÉCIATION PERSONNELLE
 Pour ma part j'ai trouvé la mission très intéréssante. Les installations étaient vraiment bien, elles étaient esthétiquement vraiment agréables à regarder et j'ai passé du bon temps. Cependant, c'est très claire que c'est une activité qui est un pour un publique de jeune âge. Les écrans n'étaient pas totalement bien optimisé, il y avait beaucoup de delai, la résolution de temps en temps changais drastiquement et en soi les activités sont vraiment très simple. J'était plus intéréssé par les vidéos qui expliquaient les faits et la vision que l'intéractivité en soi de l'expostition. 
 
 
